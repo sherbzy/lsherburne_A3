@@ -8,7 +8,8 @@ import java.util.*
 // represents a track that is stored in the database
 @Entity(tableName = "track")
 data class Track(
-    val album: Album,
+    val artist: String,
+    val album: String,
     val side: Char,
     val trackNumber: Int,
     val trackTitle: String,

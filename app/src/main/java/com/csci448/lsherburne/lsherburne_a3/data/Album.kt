@@ -10,8 +10,7 @@ import java.util.*
 data class Album(
     val artistName: String,
     val albumTitle: String,
-    val publicationYear: Int,
-    val listOfTrack: List<Track>,
+    val publicationYear: String,
     @PrimaryKey var id: UUID = UUID.randomUUID()
 ) {
 

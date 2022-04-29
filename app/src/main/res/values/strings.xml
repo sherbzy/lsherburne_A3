@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">lsherburne_A3</string>
+
+
+    <string name="album_list_title">"Album Library "</string>
+    <string name="track_side_formatter">Side (%1$s)</string>
+    <string name="track_length_formatter">%1$s:%2$s</string>
+    <string name="query_track_number">Track Number</string>
+    <string name="query_track_title">Track Title</string>
+    <string name="query_track_len_min">Track Length in Min</string>
+    <string name="query_track_len_sec">Track Length in Sec</string>
+    <string name="query_album_side">What Album Side</string>
+    <string name="on_save_track">Save This Track!</string>
+    <string name="query_artist_name">What Artist</string>
+    <string name="query_album_title">What album title</string>
+    <string name="query_year_published">What Year was it published?</string>
+    <string name="on_save_album">Save This Album!</string>
+    <string name="side_formatter">Side</string>
+    <string name="new_track_screen">Make A New Track!</string>
+    <string name="new_album_screen_title">Make A New Album!</string>
+    <string name="album_detail_title">Check Out This Album</string>
+    <string name="track_list_screen_title">All the tracks I know!</string>
+    <string name="total_time">Total Album Time</string>
 </resources>
